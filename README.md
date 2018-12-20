@@ -1,6 +1,8 @@
-# ps-kopdar-27
+# Kopdar Programmer Semarang #28
+## Konsumsi Api menggunakan VueJS
+Proyek ini konsumsi Api dari repositori [kopdar-api-laravel](https://github.com/Programmer-Semarang/kopdar-api-laravel)
 
-## Project setup
+### Project setup
 ```
 yarn install
 ```
